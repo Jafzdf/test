@@ -9,5 +9,7 @@ git add a.txt b.txt //add a.txt and b.txt to the repository
 
 git add *   //add all the files in the current floder to the repository
 
+git commit -m 'info'   //info is the description information
 
-git push
+
+git push   //upload
